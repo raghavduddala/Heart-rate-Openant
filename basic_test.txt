@@ -1,0 +1,3 @@
+Driver available: [<class 'ant.base.driver.SerialDriver'>, <class 'ant.base.driver.USB2Driver'>, <class 'ant.base.driver.USB3Driver'>]
+ - Using: <class 'ant.base.driver.USB3Driver'>
+Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 74 [BPM]Heartrate: 73 [BPM]Heartrate: 73 [BPM]Heartrate: 72 [BPM]
